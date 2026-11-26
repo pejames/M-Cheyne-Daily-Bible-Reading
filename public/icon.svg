@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#1E3A5F"/>
+  <rect x="28" y="28" width="456" height="456" rx="88" fill="none" stroke="#D4A373" stroke-width="6" stroke-opacity="0.45"/>
+  <!-- Open book emblem -->
+  <path d="M256 164 C216 142 152 142 114 156 L114 352 C152 338 216 338 256 360 C296 338 360 338 398 352 L398 156 C360 142 296 142 256 164 Z" fill="#FBF9F5"/>
+  <path d="M256 164 L256 360" stroke="#1E3A5F" stroke-width="8" stroke-linecap="round"/>
+  <!-- Subtle page lines -->
+  <path d="M144 202 C174 194 210 196 234 208" fill="none" stroke="#8A5A2B" stroke-width="7" stroke-linecap="round" stroke-opacity="0.7"/>
+  <path d="M144 242 C174 234 210 236 234 248" fill="none" stroke="#8A5A2B" stroke-width="7" stroke-linecap="round" stroke-opacity="0.5"/>
+  <path d="M144 282 C174 274 210 276 234 288" fill="none" stroke="#8A5A2B" stroke-width="7" stroke-linecap="round" stroke-opacity="0.5"/>
+  <path d="M368 202 C338 194 302 196 278 208" fill="none" stroke="#8A5A2B" stroke-width="7" stroke-linecap="round" stroke-opacity="0.7"/>
+  <path d="M368 242 C338 234 302 236 278 248" fill="none" stroke="#8A5A2B" stroke-width="7" stroke-linecap="round" stroke-opacity="0.5"/>
+  <path d="M368 282 C338 274 302 276 278 288" fill="none" stroke="#8A5A2B" stroke-width="7" stroke-linecap="round" stroke-opacity="0.5"/>
+  <!-- Bookmark ribbon -->
+  <path d="M294 342 L294 406 L316 388 L338 406 L338 338" fill="#D4A373"/>
+</svg>

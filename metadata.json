@@ -1,0 +1,6 @@
+{
+  "name": "Daily Bread — M'Cheyne Bible Reading",
+  "description": "An offline-first Bible reading companion following Robert Murray M'Cheyne's 1-Year Daily Bread plan with the complete 66-book KJV text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
